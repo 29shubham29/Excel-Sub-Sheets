@@ -1,3 +1,6 @@
+Library used for excel parsing:
+https://github.com/SheetJS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
